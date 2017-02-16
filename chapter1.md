@@ -1,3 +1,4 @@
 # First Chapter
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+新手教學：https://backlogtool.com/git-guide/tw/intro/intro2\_1.html
+

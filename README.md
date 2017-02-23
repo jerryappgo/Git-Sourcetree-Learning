@@ -1,3 +1,6 @@
-# My Awesome Book
+## 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Git 是一套分散式的版本控制系統，版本控制是一個開發團隊中不可或缺的工具，Git 最強大的一個特點就是可以無窮無盡的開 branch \(分支\)，好處就是今天不論是修 Bug ，開發新功能，或是研究 feature 都非常的方便。
+
+
+

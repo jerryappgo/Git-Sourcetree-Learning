@@ -17,7 +17,7 @@
        （切记这不要忽略了add后面的“.”）
 
      * 最后输入：`git commit -m 'Initial commit'`
-2. Finder：顯示（被隱藏）.git檔案資料夾
+2.  **Finder：顯示（被隱藏）.git檔案資料夾**
 
    * 打开Finder，找到项目存储的目录，在目录中，有一个.git的子目录，时Xcode为存储git源相关数据自动创建的。
 
